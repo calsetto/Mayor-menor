@@ -1,0 +1,11 @@
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\bin\Debug\netcoreapp2.1\MayorMenor.deps.json
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\bin\Debug\netcoreapp2.1\MayorMenor.runtimeconfig.json
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\bin\Debug\netcoreapp2.1\MayorMenor.runtimeconfig.dev.json
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\bin\Debug\netcoreapp2.1\MayorMenor.dll
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\bin\Debug\netcoreapp2.1\MayorMenor.pdb
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\obj\Debug\netcoreapp2.1\MayorMenor.csprojAssemblyReference.cache
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\obj\Debug\netcoreapp2.1\MayorMenor.csproj.CoreCompileInputs.cache
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\obj\Debug\netcoreapp2.1\MayorMenor.AssemblyInfoInputs.cache
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\obj\Debug\netcoreapp2.1\MayorMenor.AssemblyInfo.cs
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\obj\Debug\netcoreapp2.1\MayorMenor.dll
+C:\Users\Dilcia Valerio\source\repos\MayorMenor\MayorMenor\obj\Debug\netcoreapp2.1\MayorMenor.pdb
